@@ -263,6 +263,11 @@ body {
     margin: 1.5rem 0;
 }
 
+.about > p {
+    text-align: justify;
+    line-height: 1.6;
+}
+
 .about .work {
     display: grid;
     grid-template-columns: 1fr 1fr;
